@@ -4,7 +4,7 @@ import os
 import json
 
 # Set the directory path
-directory = "images/lion"
+directory = "images/trex"
 
 # Get a list of all the file names in the directory
 files = os.listdir(directory)
