@@ -1,41 +1,41 @@
 [
     {
         "name": "How to draw a Patterns?",
-        "description": "patterns",
+        "description": ["By combining various lines, shapes, and colors that repeat, you will end up with a beautiful pattern.","patterns"],
         "src": "drawing-resource.netlify.app/images/pattern",
         "final": "image_40.jpg",
         "order": ["image_1.jpg", "image_10.jpg", "image_11.jpg", "image_12.jpg", "image_13.jpg", "image_14.jpg", "image_15.jpg", "image_16.jpg", "image_17.jpg", "image_18.jpg", "image_19.jpg", "image_2.jpg", "image_20.jpg", "image_21.jpg", "image_22.jpg", "image_23.jpg", "image_24.jpg", "image_25.jpg", "image_26.jpg", "image_27.jpg", "image_28.jpg", "image_29.jpg", "image_3.jpg", "image_30.jpg", "image_31.jpg", "image_32.jpg", "image_33.jpg", "image_34.jpg", "image_35.jpg", "image_36.jpg", "image_37.jpg", "image_38.jpg", "image_39.jpg", "image_4.jpg", "image_40.jpg", "image_41.jpg", "image_42.jpg", "image_43.jpg", "image_44.jpg", "image_45.jpg", "image_46.jpg", "image_47.jpg", "image_48.jpg", "image_49.jpg", "image_5.jpg", "image_50.jpg", "image_6.jpg", "image_7.jpg", "image_8.jpg", "image_9.jpg"]
     },
     {
         "name": "How to draw a Snowflake?",
-        "description": "a snowflake",
+        "description": [ "A unique, chaotic, and intricate snowflake that results to a visually appealing piece.", "a snowflake"],
         "src": "drawing-resource.netlify.app/images/snowflake",
         "final": "how-to-draw-snowflake-2-6.png",
         "order": ["how-to-draw-snowflake-1-1.png", "how-to-draw-snowflake-1-2.png", "how-to-draw-snowflake-1-3.png", "how-to-draw-snowflake-1-4.png", "how-to-draw-snowflake-1-5.png", "how-to-draw-snowflake-1-6.png", "how-to-draw-snowflake-1-8.png", "how-to-draw-snowflake-1-9.png", "how-to-draw-snowflake-2-1.png", "how-to-draw-snowflake-2-2.png", "how-to-draw-snowflake-2-3.png", "how-to-draw-snowflake-2-4.png", "how-to-draw-snowflake-2-5.png", "how-to-draw-snowflake-2-6.png"]
     },
     {
         "name": "How to draw a Dinosaur T-rex?",
-        "description": "a T-rex",
+        "description": ["The distinctive appearance, with its with strong muscles, rough scales, and powerful jaws of this iconic prehistoric creature make it a challenge.", "a T-rex"],
         "src": "drawing-resource.netlify.app/images/trex",
         "final": "how-to-draw-dinosaur-5-8.jpg"
     },
     {
         "name": "How to draw a Winged Monkey?",
-        "description": "a winged monkey",
+        "description": ["Draw a unsettling, mythical creature that has wings when it has none in the natural world.","a winged monkey"],
         "src": "drawing-resource.netlify.app/images/winged-monkey",
         "final": "winged-monkey-final.jpg",
         "order": ["winged-monkey-1-prep-2.jpg", "winged-monkey-1-prep-3.jpg", "winged-monkey-1-prep-4.jpg", "winged-monkey-1-prep.jpg", "winged-monkey-2-1-posse.jpg", "winged-monkey-2-2-skeleton.jpg", "winged-monkey-2-3-chest.jpg", "winged-monkey-2-4-form.jpg", "winged-monkey-2-5-form-full.jpg", "winged-monkey-2-6-paws-2.jpg", "winged-monkey-2-6-paws.jpg", "winged-monkey-3-1-joints.jpg", "winged-monkey-3-2-jaws.jpg", "winged-monkey-3-3-eyes.jpg", "winged-monkey-3-4-ears.jpg", "winged-monkey-3-5-gingers.jpg", "winged-monkey-3-6-body.jpg", "winged-monkey-3-7-hands.jpg", "winged-monkey-4-1-arms.jpg", "winged-monkey-4-10-feathers.jpg", "winged-monkey-4-11-feathers.jpg", "winged-monkey-4-2-arms.jpg", "winged-monkey-4-4-arms.jpg", "winged-monkey-4-5-wings.jpg", "winged-monkey-4-6-wings.jpg", "winged-monkey-4-7-feathers.jpg", "winged-monkey-4-8-feathers.jpg", "winged-monkey-4-9-feathers.jpg", "winged-monkey-5-2-final.jpg", "winged-monkey-5-final.jpg", "winged-monkey-final.jpg"]
     },
     {
         "name": "How to draw a Skull?",
-        "description": "a skull",
+        "description": ["Draw the complex and intricate structure of the simple of death and mortality.", "a skull"], 
         "src": "drawing-resource.netlify.app/images/skull",
         "final": "image_38.jpg",
         "order": ["image_10.jpg", "image_11.jpg", "image_12.jpg", "image_13.jpg", "image_14.jpg", "image_15.jpg", "image_16.jpg", "image_17.jpg", "image_18.jpg", "image_19.jpg", "image_2.jpg", "image_20.jpg", "image_21.jpg", "image_22.jpg", "image_23.jpg", "image_24.jpg", "image_25.jpg", "image_26.jpg", "image_27.jpg", "image_28.jpg", "image_29.jpg", "image_3.jpg", "image_30.jpg", "image_31.jpg", "image_32.jpg", "image_33.jpg", "image_34.jpg", "image_35.jpg", "image_36.jpg", "image_37.jpg", "image_38.jpg", "image_4.jpg", "image_5.jpg", "image_6.jpg", "image_7.jpg", "image_8.jpg", "image_9.jpg"]
     },
     {
         "name": "How to draw a Lion?",
-        "description": "a lion",
+        "description": ["Draw an apex predator, an animal that exert dominance over their environment and prey on other animals with relative ease", "a lion"],
         "src": "drawing-resource.netlify.app/images/lion",
         "final": "image_50.jpg",
         "order": ["image_1.jpg", "image_10.jpg", "image_11.jpg", "image_12.jpg", "image_13.jpg", "image_14.jpg", "image_15.jpg", "image_16.jpg", "image_17.jpg", "image_18.jpg", "image_19.jpg", "image_2.jpg", "image_20.jpg", "image_21.jpg", "image_22.jpg", "image_23.jpg", "image_24.jpg", "image_25.jpg", "image_26.jpg", "image_27.jpg", "image_28.jpg", "image_29.jpg", "image_3.jpg", "image_30.jpg", "image_31.jpg", "image_32.jpg", "image_33.jpg", "image_34.jpg", "image_35.jpg", "image_36.jpg", "image_37.jpg", "image_38.jpg", "image_39.jpg", "image_4.jpg", "image_40.jpg", "image_41.jpg", "image_42.jpg", "image_43.jpg", "image_44.jpg", "image_45.jpg", "image_46.jpg", "image_47.jpg", "image_48.jpg", "image_49.jpg", "image_5.jpg", "image_50.jpg", "image_6.jpg", "image_7.jpg", "image_8.jpg", "image_9.jpg"]
