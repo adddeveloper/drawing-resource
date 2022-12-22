@@ -1,3 +1,4 @@
+# this is for to scrap images of easydrawingguides.com
 import requests
 import os
 from bs4 import BeautifulSoup
