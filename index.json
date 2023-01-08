@@ -8,37 +8,30 @@
     },
     {
         "name": "How to draw a Snowflake?",
-        "description": [ "A unique, chaotic, and intricate snowflake that results to a visually appealing piece.", "a snowflake"],
+        "description": ["A unique, chaotic, and intricate snowflake that results to a visually appealing piece.", "a snowflake"],
         "src": "drawing-resource.netlify.app/images/snowflake",
         "final": "how-to-draw-snowflake-2-6.png",
         "order": ["how-to-draw-snowflake-1-1.png", "how-to-draw-snowflake-1-2.png", "how-to-draw-snowflake-1-3.png", "how-to-draw-snowflake-1-4.png", "how-to-draw-snowflake-1-5.png", "how-to-draw-snowflake-1-6.png", "how-to-draw-snowflake-1-8.png", "how-to-draw-snowflake-1-9.png", "how-to-draw-snowflake-2-1.png", "how-to-draw-snowflake-2-2.png", "how-to-draw-snowflake-2-3.png", "how-to-draw-snowflake-2-4.png", "how-to-draw-snowflake-2-5.png", "how-to-draw-snowflake-2-6.png"]
     },
     {
-        "name": "How to draw a Dinosaur T-rex?",
-        "description": ["The distinctive appearance, with its with strong muscles, rough scales, and powerful jaws of this iconic prehistoric creature makes it a challenge.", "a T-rex"],
-        "src": "drawing-resource.netlify.app/images/trex",
-        "final": "how-to-draw-dinosaur-5-8.jpg",
-        "order": ["how-to-draw-dinosaur-1-1.jpg", "how-to-draw-dinosaur-1-2.jpg", "how-to-draw-dinosaur-1-3.jpg", "how-to-draw-dinosaur-1-4.jpg", "how-to-draw-dinosaur-1-5.jpg", "how-to-draw-dinosaur-1-6.jpg", "how-to-draw-dinosaur-1-7.jpg", "how-to-draw-dinosaur-1-8.jpg", "how-to-draw-dinosaur-1-9.jpg", "how-to-draw-dinosaur-2-1.jpg", "how-to-draw-dinosaur-2-10.jpg", "how-to-draw-dinosaur-2-11.jpg", "how-to-draw-dinosaur-2-12.jpg", "how-to-draw-dinosaur-2-13.jpg", "how-to-draw-dinosaur-2-2.jpg", "how-to-draw-dinosaur-2-3.jpg", "how-to-draw-dinosaur-2-4.jpg", "how-to-draw-dinosaur-2-5.jpg", "how-to-draw-dinosaur-2-6.jpg", "how-to-draw-dinosaur-2-7.jpg", "how-to-draw-dinosaur-2-8.jpg", "how-to-draw-dinosaur-2-9.jpg", "how-to-draw-dinosaur-3-1.jpg", "how-to-draw-dinosaur-3-10.jpg", "how-to-draw-dinosaur-3-11.jpg", "how-to-draw-dinosaur-3-12.jpg", "how-to-draw-dinosaur-3-13.jpg", "how-to-draw-dinosaur-3-14.jpg", "how-to-draw-dinosaur-3-15.jpg", "how-to-draw-dinosaur-3-2.jpg", "how-to-draw-dinosaur-3-3.jpg", "how-to-draw-dinosaur-3-4.jpg", "how-to-draw-dinosaur-3-5.jpg", "how-to-draw-dinosaur-3-6.jpg", "how-to-draw-dinosaur-3-7.jpg", "how-to-draw-dinosaur-3-8.jpg", "how-to-draw-dinosaur-3-9.jpg", "how-to-draw-dinosaur-4-1.jpg", "how-to-draw-dinosaur-4-10.jpg", "how-to-draw-dinosaur-4-11.jpg", "how-to-draw-dinosaur-4-2.jpg", "how-to-draw-dinosaur-4-3.jpg", "how-to-draw-dinosaur-4-4.jpg", "how-to-draw-dinosaur-4-5.jpg", "how-to-draw-dinosaur-4-6.jpg", "how-to-draw-dinosaur-4-7.jpg", "how-to-draw-dinosaur-4-8.jpg", "how-to-draw-dinosaur-4-9.jpg", "how-to-draw-dinosaur-5-1.jpg", "how-to-draw-dinosaur-5-2.jpg", "how-to-draw-dinosaur-5-3.jpg", "how-to-draw-dinosaur-5-4.jpg", "how-to-draw-dinosaur-5-5.jpg", "how-to-draw-dinosaur-5-6.jpg", "how-to-draw-dinosaur-5-7.jpg", "how-to-draw-dinosaur-5-8.jpg", "how-to-draw-dinosaur-final.jpg"]
+        "name": "How to draw a Plane?",
+        "description": ["A metalic object that is eye catching and very beautiful to draw.", "a plane"],
+        "src": "drawing-resource.netlify.app/images/plane",
+        "final": "image_261.jpg",
+        "order": ["image_261.jpg", "image_266.jpg", "image_267.jpg", "Plane_Box_Guide_Body.jpg", "Plane_Box_Guide_Cockpit.jpg", "Plane_Box_Guide_Finished.jpg", "Plane_Box_Guide_Nearside_Wing.jpg", "Plane_Box_Guide_Opposite_Wing.jpg", "Plane_Box_Guide_Rear_Flaps_Steering.jpg", "Plane_Box_Guide_Rear_Rudder_Steering.jpg", "Plane_Box_Guide_Rear_Tail.jpg", "Plane_Box_Guide_Rear_Wheel.jpg", "Plane_Complete.jpg", "Plane_Guide_Body_Centre.jpg", "Plane_Guide_Complete.jpg", "Plane_Guide_Lower_Body.jpg", "Plane_Guide_Nearside_Wing.jpg", "Plane_Guide_Opposite_Wing.jpg", "Plane_Guide_Rear_Wing.jpg", "Plane_Guide_Upper_Body.jpg", "Plane_Refined_Additional_Parts.jpg", "Plane_Refined_Aerial.jpg", "Plane_Refined_Aerial_Line.jpg", "Plane_Refined_Body.jpg", "Plane_Refined_Cockpit_Cover.jpg", "Plane_Refined_Exhausts.jpg", "Plane_Refined_Fins.jpg", "Plane_Refined_Front_Steering_Flaps.jpg", "Plane_Refined_Intake.jpg", "Plane_Refined_Machine_Gun_Holes.jpg", "Plane_Refined_Nose_Tip.jpg", "Plane_Refined_Opposite_Wing.jpg", "Plane_Refined_Pilot.jpg", "Plane_Refined_Pilot_Sketch.jpg", "Plane_Refined_Prop.jpg", "Plane_Refined_Prop_Motion.jpg", "Plane_Refined_Rear_Wheel.jpg", "Plane_Refined_Tail.jpg", "Plane_Refined_Wing.jpg", "Spitfire_Line_Final.jpg"]
     },
     {
-        "name": "How to draw a Winged Monkey?",
-        "description": ["Draw a unsettling, mythical creature that has wings when it has none in the natural world.","a winged monkey"],
-        "src": "drawing-resource.netlify.app/images/winged-monkey",
-        "final": "winged-monkey-final.jpg",
-        "order": ["winged-monkey-1-prep-2.jpg", "winged-monkey-1-prep-3.jpg", "winged-monkey-1-prep-4.jpg", "winged-monkey-1-prep.jpg", "winged-monkey-2-1-posse.jpg", "winged-monkey-2-2-skeleton.jpg", "winged-monkey-2-3-chest.jpg", "winged-monkey-2-4-form.jpg", "winged-monkey-2-5-form-full.jpg", "winged-monkey-2-6-paws-2.jpg", "winged-monkey-2-6-paws.jpg", "winged-monkey-3-1-joints.jpg", "winged-monkey-3-2-jaws.jpg", "winged-monkey-3-3-eyes.jpg", "winged-monkey-3-4-ears.jpg", "winged-monkey-3-5-gingers.jpg", "winged-monkey-3-6-body.jpg", "winged-monkey-3-7-hands.jpg", "winged-monkey-4-1-arms.jpg", "winged-monkey-4-10-feathers.jpg", "winged-monkey-4-11-feathers.jpg", "winged-monkey-4-2-arms.jpg", "winged-monkey-4-4-arms.jpg", "winged-monkey-4-5-wings.jpg", "winged-monkey-4-6-wings.jpg", "winged-monkey-4-7-feathers.jpg", "winged-monkey-4-8-feathers.jpg", "winged-monkey-4-9-feathers.jpg", "winged-monkey-5-2-final.jpg", "winged-monkey-5-final.jpg", "winged-monkey-final.jpg"]
+        "name": "How to draw a Train?",
+        "description": ["This is a complex piece that will make you at peace when you are done.", "a train"],
+        "src": "drawing-resource.netlify.app/images/train",
+        "final": "Train_Final_Line.jpg",
+        "order": ["Train_Construction_1.jpg", "Train_Construction_10.jpg", "Train_Construction_11.jpg", "Train_Construction_12.jpg", "Train_Construction_13.jpg", "Train_Construction_14.jpg", "Train_Construction_15.jpg", "Train_Construction_16.jpg", "Train_Construction_17.jpg", "Train_Construction_2.jpg", "Train_Construction_3.jpg", "Train_Construction_4.jpg", "Train_Construction_5.jpg", "Train_Construction_6.jpg", "Train_Construction_7.jpg", "Train_Construction_8.jpg", "Train_Construction_9.jpg", "Train_Details_10.jpg", "Train_Details_12.jpg", "Train_Details_13.jpg", "Train_Details_14.jpg", "Train_Details_15.jpg", "Train_Details_17.jpg", "Train_Details_18.jpg", "Train_Details_2.jpg", "Train_Details_6.jpg", "Train_Details_7.jpg", "Train_Details_9.jpg", "Train_Final_Line.jpg", "Train_Final_Line_Dirty.jpg", "Train_Image_Complete.jpg", "Train_Setup_Horizon.jpg", "Train_Setup_Horizon_1.jpg", "Train_Setup_Horizon_2.jpg", "Train_Setup_Horizon_3.jpg", "Train_Setup_Horizon_4.jpg", "Train_Setup_Horizon_5.jpg", "Train_Setup_Horizon_6.jpg", "Train_Setup_Horizon_7.jpg", "Train_Wheels_1.jpg", "Train_Wheels_10.jpg", "Train_Wheels_11.jpg", "Train_Wheels_14.jpg", "Train_Wheels_15.jpg", "Train_Wheels_2.jpg", "Train_Wheels_3.jpg", "Train_Wheels_4.jpg", "Train_Wheels_5.jpg", "Train_Wheels_6.jpg", "Train_Wheels_7.jpg"]
     },
     {
-        "name": "How to draw a Skull?",
-        "description": ["Draw the complex and intricate structure of the simple of death and mortality.", "a skull"], 
-        "src": "drawing-resource.netlify.app/images/skull",
-        "final": "image_38.jpg",
-        "order": ["image_10.jpg", "image_11.jpg", "image_12.jpg", "image_13.jpg", "image_14.jpg", "image_15.jpg", "image_16.jpg", "image_17.jpg", "image_18.jpg", "image_19.jpg", "image_2.jpg", "image_20.jpg", "image_21.jpg", "image_22.jpg", "image_23.jpg", "image_24.jpg", "image_25.jpg", "image_26.jpg", "image_27.jpg", "image_28.jpg", "image_29.jpg", "image_3.jpg", "image_30.jpg", "image_31.jpg", "image_32.jpg", "image_33.jpg", "image_34.jpg", "image_35.jpg", "image_36.jpg", "image_37.jpg", "image_38.jpg", "image_4.jpg", "image_5.jpg", "image_6.jpg", "image_7.jpg", "image_8.jpg", "image_9.jpg"]
-    },
-    {
-        "name": "How to draw a Lion?",
-        "description": ["Draw an apex predator, an animal that exert dominance over their environment and prey on other animals with relative ease", "a lion"],
-        "src": "drawing-resource.netlify.app/images/lion",
-        "final": "image_50.jpg",
-        "order": ["image_1.jpg", "image_10.jpg", "image_11.jpg", "image_12.jpg", "image_13.jpg", "image_14.jpg", "image_15.jpg", "image_16.jpg", "image_17.jpg", "image_18.jpg", "image_19.jpg", "image_2.jpg", "image_20.jpg", "image_21.jpg", "image_22.jpg", "image_23.jpg", "image_24.jpg", "image_25.jpg", "image_26.jpg", "image_27.jpg", "image_28.jpg", "image_29.jpg", "image_3.jpg", "image_30.jpg", "image_31.jpg", "image_32.jpg", "image_33.jpg", "image_34.jpg", "image_35.jpg", "image_36.jpg", "image_37.jpg", "image_38.jpg", "image_39.jpg", "image_4.jpg", "image_40.jpg", "image_41.jpg", "image_42.jpg", "image_43.jpg", "image_44.jpg", "image_45.jpg", "image_46.jpg", "image_47.jpg", "image_48.jpg", "image_49.jpg", "image_5.jpg", "image_50.jpg", "image_6.jpg", "image_7.jpg", "image_8.jpg", "image_9.jpg"]
-    } 
+        "name": "How to draw a Tank?",
+        "description": ["A destructive vechile that will blow your mind.", "a tank"],
+        "src": "drawing-resource.netlify.app/images/tank",
+        "final": "Tank_Final_Image.jpg",
+        "order": ["Tank_Block_Construction_1.jpg", "Tank_Block_Construction_10.jpg", "Tank_Block_Construction_2.jpg", "Tank_Block_Construction_3.jpg", "Tank_Block_Construction_4.jpg", "Tank_Block_Construction_5.jpg", "Tank_Block_Construction_6.jpg", "Tank_Block_Construction_7.jpg", "Tank_Block_Construction_8.jpg", "Tank_Block_Construction_9.jpg", "Tank_Colour_Complete.jpg", "Tank_Detail_1.jpg", "Tank_Detail_10.jpg", "Tank_Detail_11.jpg", "Tank_Detail_12.jpg", "Tank_Detail_2.jpg", "Tank_Detail_3.jpg", "Tank_Detail_4.jpg", "Tank_Detail_5.jpg", "Tank_Detail_6.jpg", "Tank_Detail_7.jpg", "Tank_Detail_9.jpg", "Tank_Final_Image.jpg", "Tank_Fine_Detail_1.jpg", "Tank_Fine_Detail_2.jpg", "Tank_Fine_Detail_3.jpg", "Tank_Fine_Detail_4.jpg", "Tank_Fine_Detail_5.jpg", "Tank_Fine_Detail_6.jpg", "Tank_Fine_Detail_7.jpg", "Tank_Fine_Detail_8.jpg", "Tank_Fine_Detail_9.jpg", "Tank_Horizon_Construction_1.jpg", "Tank_Horizon_Construction_10.jpg", "Tank_Horizon_Construction_2.jpg", "Tank_Horizon_Construction_3.jpg", "Tank_Horizon_Construction_4.jpg", "Tank_Horizon_Construction_5.jpg", "Tank_Horizon_Construction_6.jpg", "Tank_Horizon_Construction_9.jpg", "Tank_Horizon_Line.jpg"]
+    }
 ]
