@@ -1,14 +1,15 @@
-# this is for reading each directory
-
 import os
 import json
 
-# Set the directory path
-directory = "images/tank"
+# Directory path
+dir_path = 'images/wood'
 
-# Get a list of all the file names in the directory
-files = os.listdir(directory)
+# Get the names of all files in the directory
+files = os.listdir(dir_path)
 
-# Save the file names as a JSON array
-with open("files.json", "w") as f:
-  json.dump(files, f)
+# Sort the files by their creation date
+files.sort(key=lambda x: os.path.getctime(os.path.join(dir_path, x)))
+
+# Save the sorted list of file names in a JSON file
+with open('files.json', 'w') as f:
+    json.dump(files, f)
