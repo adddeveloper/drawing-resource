@@ -16,7 +16,6 @@ The "name" is the heading. The "description" has 2 elements, the first being a d
 The "src" is where we can find the images. The "final" is the final phase of the drawing. The "order" is the order in which we go through the images to see how we come to the "final".
 
 The python file in the directory of this repo is made by chat gpt. 
-[^1]: kind of did it for fun, and cause I am lazy.
 
 ---
 Please contact if you see any problems or have something to say:
